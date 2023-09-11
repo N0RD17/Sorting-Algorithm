@@ -1,6 +1,5 @@
 // Includes
 #include <SDL2/SDL.h>
-#include "headers/LTimer.h"
 #include <stdio.h>
 #include <stdbool.h>
 #include <time.h>
